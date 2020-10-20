@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="MiBotonRaised" parent="Theme.AppCompat.DayNight">
+        <item name="android:colorButtonNormal">@color/accent</item>
+        <item name="android:colorControlHighlight">@color/primary_dark</item>
+        <item name="android:textColor">@color/primary_text</item>
+
+    </style>
+
+</resources>

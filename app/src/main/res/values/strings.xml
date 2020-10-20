@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">App Semana 2</string>
+    <string name="btnSiguiente">Siguiente</string>
+    <string name="btnEditarDatos">Editar Datos</string>
+
+    <string name="nombreCompleto">Nombre Completo</string>
+
+    <string name="telefono">Teléfono</string>
+    <string name="descripcion">Descripción</string>
+
+    <string name="fechaNac">Fecha de Nacimiento</string>
+
+    <string name="email">Correo Electrónico</string>
+
+    <string name="tituloActDatos">Confirmar Datos</string>
+</resources>
